@@ -61,7 +61,7 @@ This repository presents a marketing risk and predictive analytics project for A
 
 ### 1. Clone the repository and setup the environment
 ```bash
-git clone https://github.com/SimretAbebe/AlphaCare-Insurance-week-3.git
+git clone https://github.com/Furtunaa/ACIS_Risk_Analytics--week-3.git
 cd AlphaCare-Insurance-week-3
 
 # Create and activate virtual environment
